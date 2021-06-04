@@ -13,3 +13,6 @@ echo "Result1:" $result1
 
 
 
+result3=$(( (a%b)+c ))
+
+echo "Result3:" $result3
