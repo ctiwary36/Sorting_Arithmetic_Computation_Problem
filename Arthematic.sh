@@ -18,6 +18,6 @@ result3=$(( (a%b)+c ))
 
 echo "Result3:" $result3
 arithmaticOperation[result]=$result
-arithmaticOperation[resultOne]=$resultOne
-arithmaticOperation[resultTwo]=$resultTwo
-arithmaticOperation[resultThree]=$resultThree
+arithmaticOperation[resultOne]=$result1
+arithmaticOperation[resultTwo]=$result2
+arithmaticOperation[resultThree]=$result3
