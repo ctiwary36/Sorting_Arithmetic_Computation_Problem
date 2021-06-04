@@ -11,7 +11,8 @@ result1=$(( (a*b)+c ))
 
 echo "Result1:" $result1
 
-
+result2=$(( c+(a/b) ))
+echo "Result2:" $result2
 
 result3=$(( (a%b)+c ))
 
